@@ -143,8 +143,7 @@ font-size: large;
     font-weight: bold;
     height: 100%;
     padding: 10px;
-    
-   
+    min-width: 420px;
 
 }
 
