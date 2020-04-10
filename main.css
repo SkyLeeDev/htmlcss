@@ -1,0 +1,179 @@
+body {
+    background-image: url(Image/outsideani.png);
+    background-size: cover;
+    font-family: Do Hyeon, sans-serif;
+    width: 100%;
+
+ margin:0;}
+
+ .bigTing {
+    background-color: #0e1c27;
+    width:100%;        
+}
+
+.marginedTing {
+    width:40%;
+    background-color: #0e1c27;
+    margin: auto;
+    min-width:800px;
+}
+
+
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: #0e1c27;
+}
+
+li {
+float: left;
+}
+
+li a {
+display: block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+width: 150px;
+font-weight: bold;
+}
+
+li a:hover {
+background-color: #111;
+}
+
+.active {
+    background-color: #289468;
+  }
+
+/* */
+  .dropdown {
+    float: left;
+    overflow: hidden;
+  }
+
+  .dropdown .dropbtn {
+    font-size: 16px;
+    border: none;
+    outline: none;
+    color: white;
+    background-color: inherit;
+    margin: 0;
+  }
+
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #0e1c27;
+    min-width: 160px;
+ 
+  }
+
+  .dropdown-content a {
+    float: none;
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+
+  .dropdown:hover .dropdown-content {
+    display: block;
+    margin-left: 8px;
+    width: 180px;
+  }
+
+  .dropdown-content a:hover {
+    background-color: #1c6f4e;
+  }
+
+
+.boxing {
+    text-align: center;
+    color: #ffffffad;
+    padding: 18px;
+    width: 100%;
+    margin-top: 200px;
+}
+
+/**/
+.container {
+  display: inline-flex;
+  width: 100%;
+  height: 100%;
+
+}
+
+.outcome {
+width: 33%;
+height: 100%;
+
+margin: 10px;
+}
+
+.omlette {
+padding: 5px;
+background-color: #1c6f4edb;
+font-size: large;
+}
+
+.pages li a {
+  width: 280px;
+  
+}
+
+.pages {
+  background-color: #0e1c27e0;
+}
+
+.ception {
+  background-color: transparent !important;
+}
+/**/
+
+.boxception {
+    width: 40%;
+    background-color: #0e1c279e;
+    margin: auto;
+    font-weight: bold;
+    height: 100%;
+    padding: 10px;
+    min-width: 1000px;
+   
+
+}
+
+.boxTing {
+    width:100%;
+    height:100%;
+    
+}
+
+.message {
+    width:100%;
+    height:20%;
+    color: white;
+    
+}
+
+.gif {
+    width:100%;
+    height:80%;
+}
+
+.title {
+   color: white;
+   font-size: x-large;
+}
+
+.pop {
+  color: #1c6f4e; 
+}
+
+.pop:visited {
+  color: #1fd7aa
+}
