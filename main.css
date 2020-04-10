@@ -132,6 +132,7 @@ font-size: large;
 
 .ception {
   background-color: transparent !important;
+  min-width: 1000px;
 }
 /**/
 
@@ -142,7 +143,7 @@ font-size: large;
     font-weight: bold;
     height: 100%;
     padding: 10px;
-    min-width: 1000px;
+    
    
 
 }
